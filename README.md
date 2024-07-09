@@ -8,8 +8,11 @@ In April 2024, a comprehensive penetration test was conducted on Techie-World.xy
 **Background**
 
 The penetration test aimed to:
+
 • Uncover vulnerabilities that could compromise the security of Techie-World.xyz.
+
 • Simulate real-world attack scenarios to evaluate the security posture.
+
 • Provide detailed findings, Proof of Concept demonstrations, and actionable recommendations to enhance security.
 
 
