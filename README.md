@@ -4,6 +4,7 @@
 
 In April 2024, a comprehensive penetration test was conducted on Techie-World.xyz by Orr Amsalem. The goal was to identify and address security vulnerabilities across the website's systems, applications, and components.
 
+
 **Background**
 
 The penetration test aimed to:
@@ -11,10 +12,12 @@ The penetration test aimed to:
 • Simulate real-world attack scenarios to evaluate the security posture.
 • Provide detailed findings, Proof of Concept demonstrations, and actionable recommendations to enhance security.
 
+
 **Scope & Targets**
 
 **Target Address:** www.techie-world.xyz
 **Goal:** Identify as many vulnerabilities as possible using various infrastructural and applicative methodologies.
+
 
 **Test Findings**
 
@@ -32,6 +35,8 @@ The assessment revealed multiple vulnerabilities, ranging from high to low risk:
 
 **Known Apache 2.4.52 CVEs:**  Includes SSRF, CSRF, and request smuggling vulnerabilities.
 
+
+
 **Medium Risk Vulnerabilities**
 
 **Cookie Manipulation Vulnerability:** Altering cookies to affect application behavior.
@@ -41,6 +46,8 @@ The assessment revealed multiple vulnerabilities, ranging from high to low risk:
 **Phishing** **- Clickjacking via Iframe Vulnerability:** Deceptive UI techniques to trick users.
 
 **Missing Critical Security Headers:** Lacking headers like X-Content-Type-Options, Referrer-Policy, Strict-Transport-Security, Content-Security-Policy.
+
+
 
 **Low Risk Vulnerabilities**
 
@@ -56,6 +63,8 @@ The assessment revealed multiple vulnerabilities, ranging from high to low risk:
 
 **Apache Server Disclosure:** Revealing server information.
 
+
+
 **Test Limitations**
 
 **Scope Constraints:** Only systems within the agreed scope were tested.
@@ -70,6 +79,8 @@ The assessment revealed multiple vulnerabilities, ranging from high to low risk:
 
 **Limited Impact Assessment:** Further investigation required for detailed impact analysis.
 
+
+
 **Methodologies Used**
 
 **Web Testing Vulnerabilities:** Followed OWASP Top 10 guidelines.
@@ -81,6 +92,8 @@ The assessment revealed multiple vulnerabilities, ranging from high to low risk:
 **Scanning Techniques:** Detected known weaknesses in customer systems.
 
 **Network Attacks:** Performed to obtain high permissions and take over the network.
+
+
 
 **Conclusion** 
 
