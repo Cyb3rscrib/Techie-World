@@ -19,6 +19,7 @@ The penetration test aimed to:
 **Scope & Targets**
 
 **Target Address:** www.techie-world.xyz
+
 **Goal:** Identify as many vulnerabilities as possible using various infrastructural and applicative methodologies.
 
 
