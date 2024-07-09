@@ -41,7 +41,7 @@ The assessment revealed multiple vulnerabilities, ranging from high to low risk:
 
 • **Cookie Manipulation Vulnerability:** Altering cookies to affect application behavior.
 
-• Reflected XSS via Contact Form Vulnerability:** Injecting scripts through the contact form.
+• **Reflected XSS via Contact Form Vulnerability:** Injecting scripts through the contact form.
 
 •**Phishing** **- Clickjacking via Iframe Vulnerability:** Deceptive UI techniques to trick users.
 
