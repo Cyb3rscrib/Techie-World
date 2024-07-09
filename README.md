@@ -25,43 +25,43 @@ The assessment revealed multiple vulnerabilities, ranging from high to low risk:
 
 **High Risk Vulnerabilities**
 
-**Code Injection Vulnerability:** Unauthorized code execution.
+• **Code Injection Vulnerability:** Unauthorized code execution.
 
-**Reverse Shell Vulnerability:** Allows remote control of the system.
+• **Reverse Shell Vulnerability:** Allows remote control of the system.
 
-**Privilege Escalation Vulnerability:** Gain higher privileges within the system."
+• **Privilege Escalation Vulnerability:** Gain higher privileges within the system."
 
-**Local File Inclusion (LFI) Vulnerability:** Access local files on the server.
+• **Local File Inclusion (LFI) Vulnerability:** Access local files on the server.
 
-**Known Apache 2.4.52 CVEs:**  Includes SSRF, CSRF, and request smuggling vulnerabilities.
+• **Known Apache 2.4.52 CVEs:**  Includes SSRF, CSRF, and request smuggling vulnerabilities.
 
 
 
 **Medium Risk Vulnerabilities**
 
-**Cookie Manipulation Vulnerability:** Altering cookies to affect application behavior.
+• **Cookie Manipulation Vulnerability:** Altering cookies to affect application behavior.
 
-**Reflected XSS via Contact Form Vulnerability:** Injecting scripts through the contact form.
+• Reflected XSS via Contact Form Vulnerability:** Injecting scripts through the contact form.
 
-**Phishing** **- Clickjacking via Iframe Vulnerability:** Deceptive UI techniques to trick users.
+•**Phishing** **- Clickjacking via Iframe Vulnerability:** Deceptive UI techniques to trick users.
 
-**Missing Critical Security Headers:** Lacking headers like X-Content-Type-Options, Referrer-Policy, Strict-Transport-Security, Content-Security-Policy.
+• **Missing Critical Security Headers:** Lacking headers like X-Content-Type-Options, Referrer-Policy, Strict-Transport-Security, Content-Security-Policy.
 
 
 
 **Low Risk Vulnerabilities**
 
-**Directory Listing Enabled:** Exposing directory contents.
+• **Directory Listing Enabled:** Exposing directory contents.
 
-**Brute Force Attack on User's Login:** Attempt to crack user credentials.
+• **Brute Force Attack on User's Login:** Attempt to crack user credentials.
 
-**Weak Password Policy:** Insufficient password requirements.
+• **Weak Password Policy:** Insufficient password requirements.
 
-**User Enumeration Vulnerability:** Identifying valid usernames.
+• **User Enumeration Vulnerability:** Identifying valid usernames.
 
-**Exposure of Robots.txt File:** Disclosing sensitive file paths.
+• **Exposure of Robots.txt File:** Disclosing sensitive file paths.
 
-**Apache Server Disclosure:** Revealing server information.
+• **Apache Server Disclosure:** Revealing server information.
 
 
 
